@@ -5,7 +5,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/mailhog/data"
+	"github.com/mailcache/data"
 )
 
 // InMemory is an in memory storage backend
