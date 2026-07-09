@@ -4,6 +4,7 @@ import (
 	"log"
 
 	"github.com/mailcache/data"
+	mgo "gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"
 )
 
